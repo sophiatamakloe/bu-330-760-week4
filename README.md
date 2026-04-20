@@ -97,3 +97,6 @@ This repository includes multiple commits showing project setup, implementation 
 
 ```bash
 uv run agent.py
+## Walkthrough Video
+
+https://youtu.be/s3xlbcwmLqk
